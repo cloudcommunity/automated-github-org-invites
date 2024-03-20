@@ -1,1 +1,1 @@
-# automated-github-org-invites
+# Automated GitHub Org Invites
